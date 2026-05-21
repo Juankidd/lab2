@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+mlruns/
+mlartifacts/
+models/*.pkl
+reports/figures/*.png
+reports/metrics/*.csv
+.pytest_cache/
+.DS_Store
